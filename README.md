@@ -22,7 +22,7 @@ This repository contains selected academic engineering projects completed during
 - **SAPA_Stethoscope**  
   Digital stethoscope system for biomedical signal acquisition and frequency-domain analysis.
 
-  - **SwitchableCounter_PulseGenerator**  
+- **SwitchableCounter_PulseGenerator**  
   Digital system combining a switchable BCD counter and a variable-duty-cycle pulse generator. Implemented using astable multivibrators, CMOS multiplexers, and D flip-flop logic, with verification through LTspice simulations and physical breadboard implementation.
 
 - **TouchSensor_AnalogReadout**  
