@@ -4,6 +4,7 @@
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 # Enhancing Robot Navigation with Vision-Language Models
 
+![Demo](images/semantic_map.png)
 ## Project Overview
 
 This ongoing senior design project investigates how Vision-Language Models (VLMs) can improve autonomous indoor robot navigation through semantic scene understanding and natural language-guided navigation.
