@@ -38,6 +38,18 @@ Simulation-based mapping and navigation experiments are currently being conducte
 
 ---
 
+## Repository Status
+
+🚧 This project is currently under active development as part of the Senior Design Project at Abdullah Gül University.
+
+Future updates will include:
+
+- ROS integration
+- Jetson Nano deployment
+- Real robot experiments
+- Performance evaluation
+- Final project report
+
 ## Team
 
 - Ayşe Ece Akkurt
