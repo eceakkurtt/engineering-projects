@@ -60,6 +60,24 @@ A short demonstration of the semantic navigation system is available in the repo
 
 🎥 **Demo Video:** `VLM_Navigation_Demo.mp4`
 
+## Project Timeline
+
+The documents included in this repository summarize the work completed during the first development phase of the project (March 2026 – June 2026) as part of the Senior Design Project at Abdullah Gül University.
+
+This phase focused on literature review, system design, simulation setup, semantic mapping experiments, and preliminary evaluation.
+
+The project is currently under active development, and this repository will be continuously updated with new implementations, experimental results, and documentation.
+
+## Project Documents
+
+The following documents are included in this repository:
+
+- 📄 Project Proposal
+- 📊 Project Presentation
+- 🎥 Demonstration Video
+
+For detailed figures, system architecture, workflow diagrams, experimental screenshots, and additional visual materials, please refer to the **Project Presentation** document.
+
 ## Team
 
 - Ayşe Ece Akkurt
