@@ -55,6 +55,12 @@ Future updates will include:
 - Performance evaluation
 - Final project report
 
+## Demonstration
+
+A short demonstration of the semantic navigation system is available in the repository.
+
+🎥 **Demo Video:** `VLM_Navigation_Demo.mp4`
+
 ## Team
 
 - Ayşe Ece Akkurt
