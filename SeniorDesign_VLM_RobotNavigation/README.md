@@ -1,3 +1,7 @@
+![Status](https://img.shields.io/badge/Status-Ongoing-orange)
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![ROS](https://img.shields.io/badge/ROS-2-green)
+![License](https://img.shields.io/badge/License-MIT-lightgrey)
 # Enhancing Robot Navigation with Vision-Language Models
 
 ## Project Overview
