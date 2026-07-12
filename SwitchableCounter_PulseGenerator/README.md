@@ -1,11 +1,35 @@
 # Switchable Counter & Variable Pulse Generator
 
-A digital system integrating a switchable BCD counter and a variable-duty-cycle pulse generator. The design includes clock generation using astable multivibrators, CMOS-based signal routing with a 2×2 multiplexer, and D flip-flop logic to support counting by 1 or 2 steps.
+## Project Overview
 
-## What I did
-- Designed and implemented the counter and pulse generator architecture
-- Built and tested clock, multiplexer, and flip-flop blocks
-- Verified the system through LTspice simulations and physical breadboard implementation
+This project involved the design and implementation of a digital logic system integrating a switchable BCD counter and an adjustable PWM signal generator.
 
-## Files
-- `Final_Report.pdf` — project report and documentation
+Simulation and hardware verification were carried out to validate system functionality.
+
+---
+
+## Main Contributions
+
+- Designed digital logic circuits
+- Implemented switchable BCD counter
+- Developed PWM signal generator
+- Verified functionality using LTspice
+- Performed hardware implementation
+
+---
+
+## Technologies
+
+- Digital Logic Design
+- PWM Generation
+- LTspice
+- Sequential Logic
+
+---
+
+## Project Contents
+
+- Project Report
+- LTspice Simulations
+- Logic Diagrams
+- Experimental Results
