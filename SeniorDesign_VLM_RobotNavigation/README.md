@@ -1,6 +1,6 @@
-![Status](https://img.shields.io/badge/Status-Ongoing-orange)
+![Status](https://img.shields.io/badge/Status-In%20Progress-orange)
 ![Python](https://img.shields.io/badge/Python-3.11-blue)
-![ROS](https://img.shields.io/badge/ROS-2-green)
+![Habitat-Sim](https://img.shields.io/badge/Habitat--Sim-Simulator-success)
 ![License](https://img.shields.io/badge/License-MIT-lightgrey)
 # Enhancing Robot Navigation with Vision-Language Models
 
